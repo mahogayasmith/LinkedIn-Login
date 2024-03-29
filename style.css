@@ -50,7 +50,7 @@ a{
     margin-right: 160px;
     margin-top: 20px;
     font-weight: 400;
-    color: rgb(61, 132, 198);
+    color: rgb(54, 134, 209);
     font-size: large;
     text-decoration: none;
 }
@@ -62,7 +62,7 @@ a{
         border-radius: 50px;
         border: none;
         background-color: #1f69c4;
-        color: white;
+        color: rgb(255, 255, 255);
         font-size: large;
         font-weight: bold;
 }
